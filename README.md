@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Lawrence G. Mindanao
 
-<!--
-**stretchStress/stretchStress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 4TH year Student in my IT  focused on building **sustainable, scalable, and evergreen code.** Just like a forest, I believe great software should be deeply rooted in solid fundamentals while constantly reaching for the light of new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Root System (Tech Stack)
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Core** | `JavaScript` `Java` `PHP` |
+| **Frameworks** | `React` `Node.js` `Laravel` |
+| **Infrastructure** | `Docker` `AWS` `Terraform` |
+| **Environment** | `VScode` `Bash` `Pop!-Os` |
+
+---
+
+### 📈 Seasonal Growth
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=stretchStress&show_icons=true&theme=dracula&count_private=true)
+
+---
+
+### 📫 Reach Out
+- **Email:** [email]
+
+> "The best time to plant a tree was 20 years ago. The second best time is today." — *Ancient Proverb*
