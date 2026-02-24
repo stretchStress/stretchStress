@@ -16,4 +16,4 @@ I’m a 4TH year Student in my IT course focused on building **sustainable, scal
 ---
 
 ### 📈 Seasonal Growth
-[![My GitHub Skyline](https://skyline.github.com/stretchStress/2024.png)](https://skyline.github.com/stretchStress)
+![Snake animation](https://raw.githubusercontent.com/stretchStress/stretchStress/output/github-contribution-grid-snake.svg)
