@@ -16,4 +16,4 @@ I’m a 4TH year Student in my IT course focused on building **sustainable, scal
 ---
 
 ### 📈 Seasonal Growth
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=stretchStress&show_icons=true&theme=dracula&count_private=true)
+[![My GitHub Skyline](https://skyline.github.com/stretchStress/2024.png)](https://skyline.github.com/stretchStress)
