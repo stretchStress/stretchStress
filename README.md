@@ -1,6 +1,6 @@
 # Hi there, I'm Lawrence G. Mindanao
 
-I’m a 4TH year Student in my IT  focused on building **sustainable, scalable, and evergreen code.** Just like a forest, I believe great software should be deeply rooted in solid fundamentals while constantly reaching for the light of new technologies.
+I’m a 4TH year Student in my IT course focused on building **sustainable, scalable, and evergreen code.** Just like a forest, I believe great software should be deeply rooted in solid fundamentals while constantly reaching for the light of new technologies.
 
 ---
 
@@ -21,6 +21,6 @@ I’m a 4TH year Student in my IT  focused on building **sustainable, scalable, 
 ---
 
 ### 📫 Reach Out
-- **Email:** [email]
+- **Email:** mindanaolawrence86@gmail.com
 
 > "The best time to plant a tree was 20 years ago. The second best time is today." — *Ancient Proverb*
