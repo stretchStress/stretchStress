@@ -16,4 +16,4 @@ I’m a 4TH year Student in my IT course focused on building **sustainable, scal
 ---
 
 ### 📈 Seasonal Growth
-![Snake animation](https://raw.githubusercontent.com/stretchStress/stretchStress/output/github-contribution-grid-snake.svg)
+![Isometric Calendar](https://raw.githubusercontent.com/stretchStress/stretchStress/main/github-metrics.svg)
