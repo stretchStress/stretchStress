@@ -17,10 +17,3 @@ I’m a 4TH year Student in my IT course focused on building **sustainable, scal
 
 ### 📈 Seasonal Growth
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=stretchStress&show_icons=true&theme=dracula&count_private=true)
-
----
-
-### 📫 Reach Out
-- **Email:** mindanaolawrence86@gmail.com
-
-> "The best time to plant a tree was 20 years ago. The second best time is today." — *Ancient Proverb*
