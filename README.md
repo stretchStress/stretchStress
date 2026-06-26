@@ -11,7 +11,7 @@ I’m a 4TH year Student in my IT course focused on building **sustainable, scal
 | **Core** | `JavaScript` `Java` `PHP` |
 | **Frameworks** | `React` `Node.js` `Laravel` |
 | **Infrastructure** | `Docker` `AWS` `Google Cloud` |
-| **Environment** | `VScode` `Bash` `Pop!-Os` |
+| **Environment** | `VScode` `Bash` `Arch` `Niri` |
 
 ---
 
